@@ -33,4 +33,27 @@
         </menu>
     </item>
 
+    <item android:title="Dzikir">
+        <menu>
+            <item
+                android:id="@+id/txtdzikirstlhsholat"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="Dzikir Setelah Sholat"
+                />
+            <item
+                android:id="@+id/txtdzikirpagi"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Dzikir Pagi"/>
+            <item
+                android:id="@+id/txtdzikirpetang"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Dzikir Petang"/>
+
+        </menu>
+    </item>
+
+
+
+
+
 </menu>

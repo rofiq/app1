@@ -1,8 +1,17 @@
 <resources>
-    <string name="app_name">App1</string>
+    <string name="app_name">Dzikir dan Doa</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="radio_merah">Merah</string>
+    <string name="radio_hijau">Hijau</string>
+    <string name="radio_biru">Biru</string>
+    <string name="radio_coklat">Coklat</string>
+    <string name="radio_ungu">Ungu</string>
+    <string name="jawab">Cek Jawaban</string>
+    <string name="pilihwarna">Pilih Warna?</string>
+
 
     <string name="action_settings">Settings</string>
 </resources>
